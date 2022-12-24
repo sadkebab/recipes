@@ -9,6 +9,7 @@ npm i axios
 npm i react-query
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+npm install @formkit/auto-animate
 ```
 
 # tailwind.config.cjs
