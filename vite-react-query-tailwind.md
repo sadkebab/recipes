@@ -5,6 +5,7 @@ npm create vite@latest
 cd {app_name}
 npm install
 npm run dev
+npm i axios
 npm i react-query
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
