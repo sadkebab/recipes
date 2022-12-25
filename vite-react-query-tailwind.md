@@ -27,7 +27,12 @@ module.exports = {
   plugins: [],
 }
 ```
-
+# index.css
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
 # add polling on vite.config.ts for hot reload on WSL
 ```
 export default defineConfig({
